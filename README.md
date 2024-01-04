@@ -1,11 +1,10 @@
-# Expanding Gallery CSS web design
-
+# Expanding Gallery CSS 
 ## Intro
 
-This is the seconf project of my 30-day coding challenge. The project includes following tech stuff: html, css.
+This is the second project of my 30-day coding challenge. The project includes following tech stuff: html, css.
 
 ## Idea 
-The goal was to make an expanding gallery using just CSS
+The goal was to make an expanding gallery using just CSS.
 
 ## Breaking down the code
 
